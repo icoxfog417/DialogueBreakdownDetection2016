@@ -13,12 +13,15 @@
 
 モデルの詳細、また結果については論文をご参照ください。
 
+[Neural Conversational Model を用いた対話と破綻の同時学習](https://github.com/icoxfog417/DialogueBreakdownDetection2016/blob/master/doc/DialogueBreakdown2016.pdf)
+
 
 ## Dependencies
 
 * TensorFlow
 * scikit-learn
 * MeCab
+
 
 ## How to Train/Run
 
